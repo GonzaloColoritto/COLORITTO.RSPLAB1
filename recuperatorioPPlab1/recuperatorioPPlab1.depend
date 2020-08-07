@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1596750857 source:c:\users\gonzalo\desktop\recuperatoriopplab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1596397334 source:c:\users\gonzalo\desktop\recuperatoriopplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1596397334 c:\users\gonzalo\desktop\recuperatoriopplab1\utn.h
+
+1596760310 source:c:\users\gonzalo\desktop\recuperatoriopplab1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"utn.h"
+	<string.h>
+	<ctype.h>
+	"prestamos.h"
+
+1596760735 source:c:\users\gonzalo\desktop\recuperatoriopplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"menu.h"
+	"prestamos.h"
+
+1596760726 c:\users\gonzalo\desktop\recuperatoriopplab1\cliente.h
+
+1596751528 c:\users\gonzalo\desktop\recuperatoriopplab1\menu.h
+
+1596760496 source:c:\users\gonzalo\desktop\recuperatoriopplab1\prestamo.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"menu.h"
+	<ctype.h>
+	<string.h>
+	"prestamos.h"
+
+1596760726 c:\users\gonzalo\desktop\recuperatoriopplab1\prestamos.h
+
